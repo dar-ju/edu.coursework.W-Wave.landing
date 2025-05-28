@@ -1,6 +1,6 @@
 # W-Wave landingpage
 
-![W-Wave logo](http://w-wave.host1438437.hostland.pro/design/logo.svg)
+![W-Wave logo](./design/logo.svg)
 
 Radio station W-Wave landingpage. Weblayout HTML, CSS.
 
@@ -19,4 +19,4 @@ Live link: http://w-wave.host1438437.hostland.pro/
 
 ## Page screenshot:
 
-![W-Wave screen](http://w-wave.host1438437.hostland.pro/design/Screenshot-w-radio.jpg)
+![W-Wave screen](./design/Screenshot-w-radio.jpg)
