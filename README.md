@@ -19,4 +19,6 @@ Layout: https://www.figma.com/file/4Zu9n2KcjiesKJb6HBix3z/W-Wave-Radio-(new)?nod
 
 Work link: http://w-wave.host1438437.hostland.pro/
 
+## Page screenshot:
+
 ![W-Wave screen](http://w-wave.host1438437.hostland.pro/design/Screenshot-w-radio.jpg)
