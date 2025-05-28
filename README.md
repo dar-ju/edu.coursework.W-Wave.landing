@@ -4,8 +4,6 @@
 
 Radio station W-Wave landingpage. Weblayout HTML, CSS.
 
-![HTML CSS](http://_github-images.host1438437.hostland.pro/html-css.png)
-
 Adaptive landingpage with Perfect Pixel weblayout.
 My **coursework** for the "Weblayout. Base level" Skillbox course.
 
@@ -17,7 +15,7 @@ My **coursework** for the "Weblayout. Base level" Skillbox course.
 
 Layout: https://www.figma.com/file/4Zu9n2KcjiesKJb6HBix3z/W-Wave-Radio-(new)?node-id=0-1&t=W5aoTxiiVNidGb0U-0
 
-Work link: http://w-wave.host1438437.hostland.pro/
+Live link: http://w-wave.host1438437.hostland.pro/
 
 ## Page screenshot:
 
